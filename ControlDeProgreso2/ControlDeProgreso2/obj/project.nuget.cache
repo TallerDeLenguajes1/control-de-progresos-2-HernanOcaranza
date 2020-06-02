@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjOBQlMtYbLYTSlUrF5fEYzV1UTmtfygOPccXlelIdmFvKy/qMomSP7MaTc4Z5+myXOvQeEzT0vL4yXrccinVA==",
+  "success": true,
+  "projectFilePath": "D:\\repogit\\control-de-progresos-2-HernanOcaranza\\ControlDeProgreso2\\ControlDeProgreso2\\ControlDeProgreso2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hernan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
