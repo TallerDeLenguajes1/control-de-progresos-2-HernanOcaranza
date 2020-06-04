@@ -52,7 +52,7 @@ namespace ControlDeProgreso2
             Random r = new Random();
             Array valoresTiposPersonaje = Enum.GetValues(typeof(TipoPersonaje));
             TipoPersonaje tip = (TipoPersonaje)valoresTiposPersonaje.GetValue(r.Next(valoresTiposPersonaje.Length));
-            string[] nom = { "Kei Minoo", "Atilus Hafza", "Mirko", "Josapath" };
+            string[] nom = { "KeiMin", "Atilus", "Mirko", "Josapath" };
             string[] apod = { "KM", "Ati", "Mir", "Jos" };
             int indA = r.Next(4);
             DateTime fechN = new DateTime(DateTime.Now.Year - 300, DateTime.Now.Month, DateTime.Now.Day).AddDays(r.Next(365 * 300));
@@ -108,6 +108,25 @@ namespace ControlDeProgreso2
             Console.WriteLine("Armadura: " + Armadura);
         }
 
+        public bool EstaVivo()
+        {
+            if (Salud > 0)
+                return true;
+            return false;
+        }
+        
 
+        public void Atacar (Player oponente)
+        {
+            Random r = new Random();
+            float PD = Destreza * Fuerza * Nivel;
+            float ED = r.Next(100) + 1;
+            float VA = PD * ED;
+            float PDEF = oponente.Armadura * oponente.Velocidad;
+            float MDP = 50000;
+            float DañoProvocado = (VA - PDEF)/ MDP * 100;
+            oponente.Salud -= (int)DañoProvocado;
+            Console.WriteLine("El personaje " + oponente.Nombre + " el " + oponente.Tipo + " recibio " + (int)DañoProvocado + " de Daño");
+        }
     }
 }
