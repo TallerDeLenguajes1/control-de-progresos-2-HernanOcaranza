@@ -6,7 +6,14 @@ namespace ControlDeProgreso2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Player pj1 = new Player();
+            Player pj2 = new Player();
+            pj1.MostarDatos();
+            pj1.MostarCaracteristicas();
+            Console.WriteLine("");
+            pj2.MostarDatos();
+            pj2.MostarCaracteristicas();
+
         }
     }
 }

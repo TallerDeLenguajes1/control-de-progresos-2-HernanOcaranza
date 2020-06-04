@@ -1,0 +1,13 @@
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\bin\Debug\netcoreapp3.1\ControlDeProgreso2.exe
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\bin\Debug\netcoreapp3.1\ControlDeProgreso2.deps.json
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\bin\Debug\netcoreapp3.1\ControlDeProgreso2.runtimeconfig.json
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\bin\Debug\netcoreapp3.1\ControlDeProgreso2.runtimeconfig.dev.json
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\bin\Debug\netcoreapp3.1\ControlDeProgreso2.dll
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\bin\Debug\netcoreapp3.1\ControlDeProgreso2.pdb
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\obj\Debug\netcoreapp3.1\ControlDeProgreso2.csprojAssemblyReference.cache
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\obj\Debug\netcoreapp3.1\ControlDeProgreso2.AssemblyInfoInputs.cache
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\obj\Debug\netcoreapp3.1\ControlDeProgreso2.AssemblyInfo.cs
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\obj\Debug\netcoreapp3.1\ControlDeProgreso2.csproj.CoreCompileInputs.cache
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\obj\Debug\netcoreapp3.1\ControlDeProgreso2.dll
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\obj\Debug\netcoreapp3.1\ControlDeProgreso2.pdb
+D:\repogit\control-de-progresos-2-HernanOcaranza\ControlDeProgreso2\ControlDeProgreso2\obj\Debug\netcoreapp3.1\ControlDeProgreso2.genruntimeconfig.cache
